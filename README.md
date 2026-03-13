@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Oussema Aissaoui</h1>
 <h3 align="center">AI Engineer focused on LLMs, Agentic Systems, and Intelligent Data Pipelines</h3>
 
